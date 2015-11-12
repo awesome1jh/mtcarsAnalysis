@@ -1,0 +1,9 @@
+name: ShinyApp
+account: awesome1jh
+server: shinyapps.io
+appId: 68507
+bundleId: 309395
+url: https://awesome1jh.shinyapps.io/ShinyApp
+when: 1447358766.72716
+asMultiple: FALSE
+asStatic: FALSE
